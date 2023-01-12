@@ -16,7 +16,7 @@ These patterns provide various object creation mechanisms, wich increase flexbil
 **Structural patterns:**<br/>
 These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
-- Adapter
+- [Adapter](/DesignPatters/Structural/Adapter/)
 - Bridge
 - Composite
 - Decorator
