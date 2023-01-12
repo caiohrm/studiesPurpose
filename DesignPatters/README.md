@@ -9,7 +9,7 @@ These patterns provide various object creation mechanisms, wich increase flexbil
 - [Builder](/DesignPatters/Builder/)
 - [Factory Method](/DesignPatters/Factory/)
 - [Prototype](/DesignPatters/Prototype/)
-- Singleton
+- [Singleton](/DesignPatters/Singleton/)
 
 
 
