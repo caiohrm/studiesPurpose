@@ -5,7 +5,7 @@ Types of patters:
 **Creational patterns:**<br/>
 These patterns provide various object creation mechanisms, wich increase flexbility and reuse of existing code.
 
-- Abstract Factory
+- [Abstract Factory](/DesignPatters/AbstractFactory/)
 - Builder
 - Factory Method
 - Prototype
