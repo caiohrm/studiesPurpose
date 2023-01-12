@@ -6,7 +6,7 @@ Types of patters:
 These patterns provide various object creation mechanisms, wich increase flexbility and reuse of existing code.
 
 - [Abstract Factory](/DesignPatters/AbstractFactory/)
-- Builder
+- [Builder](/DesignPatters/Builder/)
 - Factory Method
 - Prototype
 - Singleton
