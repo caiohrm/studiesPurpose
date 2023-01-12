@@ -2,7 +2,7 @@
 
 Types of patters:
 
-**Creational patterns:**
+**Creational patterns:**<br/>
 These patterns provide various object creation mechanisms, wich increase flexbility and reuse of existing code.
 
 - Abstract Factory
@@ -13,7 +13,7 @@ These patterns provide various object creation mechanisms, wich increase flexbil
 
 
 
-**Structural patterns:**
+**Structural patterns:**<br/>
 These patterns explain how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
 
 - Adapter
@@ -25,7 +25,7 @@ These patterns explain how to assemble objects and classes into larger structure
 - Proxy
 
 
-**Behavioral patterns:**
+**Behavioral patterns:**<br/>
 These patterns are concerned with algorithms and the assignment of responsibilities between objects.
 
 - Chain of Responsibility
