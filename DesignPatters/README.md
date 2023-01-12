@@ -5,11 +5,11 @@ Types of patters:
 **Creational patterns:**<br/>
 These patterns provide various object creation mechanisms, wich increase flexbility and reuse of existing code.
 
-- [Abstract Factory](/DesignPatters/AbstractFactory/)
-- [Builder](/DesignPatters/Builder/)
-- [Factory Method](/DesignPatters/Factory/)
-- [Prototype](/DesignPatters/Prototype/)
-- [Singleton](/DesignPatters/Singleton/)
+- [Abstract Factory](/DesignPatters/Creational/AbstractFactory/)
+- [Builder](/DesignPatters/Creational/Builder/)
+- [Factory Method](/DesignPatters/Creational/Factory/)
+- [Prototype](/DesignPatters/Creational/Prototype/)
+- [Singleton](/DesignPatters/Creational/Singleton/)
 
 
 
