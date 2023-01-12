@@ -8,11 +8,11 @@ Imagine you have a factory that produces diferent types of chairs, tables, coffe
 
 In this case how can we deal with the problem of having diferent classes of chairs, tables, coffe center...? We should only create an Interface for each type of furniture (**IChair**,**ITable**,**ICoffeCenter**...), **so in this case if we have a diferent type of chair we just need to implement the IChair interface.**
 
-But what if now we need a class that creates always the same type of furniture ?
+**But what if now we need a class that creates always the same type of furniture ?**
 
 Ex: I'm going to need to create chairs and tables with the same caracteristics, how can I ensure that this will happen?
 
-In this case I'll need to create a Interface for each kind of furniture I need to create (IFurnitureFactory), so everytime that I need a Vintage chair I can just call the interface IFurnitureFactory instead of the class (ModernFactory, VintageFactory...) and the method itself its going to return an interface IChair for me, in this case the client don't need to know the type of the class to call, he just need to ask for the chair:
+In this case I'll need to create a Interface for each kind of furniture I need to create (**IFurnitureFactory**), so everytime that I need a Vintage chair I can just call the interface IFurnitureFactory instead of the class (ModernFactory, VintageFactory...) **and the method itself its going to return an interface IChair for me**, in this case the client don't need to know the type of the class to call, he just need to ask for the chair:
 
 
 ![plot](./images/structure.png)
